@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pixmenu", "Pixmenu.vcxproj", "{F8DD192B-1C05-4F5C-BE23-8140E2EB8069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DD192B-1C05-4F5C-BE23-8140E2EB8069}.Release|x64.ActiveCfg = Release|x64
+		{F8DD192B-1C05-4F5C-BE23-8140E2EB8069}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FC8B65-7320-4DB4-8044-A1CE4B4ED9D4}
+	EndGlobalSection
+EndGlobal
